@@ -9,5 +9,7 @@ public class DemoPracticeManyToManyBiDirectionalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoPracticeManyToManyBiDirectionalApplication.class, args);
 	}
+	
+	
 
 }
